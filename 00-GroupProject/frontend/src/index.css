@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+@plugin "daisyui" {
+  themes: halloween --default;
+}
+
+/* a.active {
+  text-decoration: underline;
+} */
